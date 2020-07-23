@@ -5,7 +5,7 @@ export default function Profile() {
         <>
             <div className="wrapper">
                 <p>Name: </p>
-                <p>Languages: </p>
+                <p>Tech: </p>
                 <p>Tabs or spaces?</p>
             </div>
         </>

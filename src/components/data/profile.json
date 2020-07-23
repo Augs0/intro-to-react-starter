@@ -1,5 +1,8 @@
-{
-    "name": "yourname",
-    "languages": "programminglanguageshere",
-    "tabsorspaces": "yourchoice"
-}
+export default [
+    {
+        "id": 1,
+        "name": "",
+        "tech": "",
+        "tabsorspaces": ""
+    }
+]
